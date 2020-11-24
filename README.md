@@ -5,6 +5,6 @@ My configs:
 - i5 8250u
 - 8 gb of ddr4 ram
 - 1 TB od rotational disk
-- Intel Dual Band AC-3165, that card was not from original Lenovo, I bought it.
+- Intel Dual Band AC-3165, that card was not from original Lenovo, I bought it, don't buy it, that don't works properly.
 
 - Olarila Hackintosh Big Sur Image
